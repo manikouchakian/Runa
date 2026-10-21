@@ -53,7 +53,7 @@ Dieses Projekt ist ein Lernprojekt. Mani muss jede Zeile erklären können.
 ## Umgebungsvariablen
 
 * `RUNA_LLM`: `ollama` (Standard) oder `fake`
-* `RUNA_MODEL`: Standard `qwen2.5:3b`
+* `RUNA_MODEL`: Standard `qwen2.5:7b`
 * `RUNA_DB`: Pfad zur SQLite-Datei, Standard `runa.db`
 
 ## Begriffe
