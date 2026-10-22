@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+runa.db
+.DS_Store
+.prompts/
+.claude-docs/
+.claude/settings.local.json
